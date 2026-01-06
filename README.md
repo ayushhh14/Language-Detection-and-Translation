@@ -1,1 +1,1 @@
-# Language-Detection-and-Translation
+# LANGUAGE DETECTION AND TRANSLATION
